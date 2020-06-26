@@ -2,6 +2,7 @@
 Repositoro sobre el gen DREB2D de Arabidopsis thaliana
 
 Pasos para obtener la red de Arabidopsis thaliana:
+
 1.- Para obtener la siguiente red primero debes entrar a la página de Genemania (genemania.org).
 
 2.- Deapués de entrar a la página, en la parte superior izquierza aparece un buscador, en el cual puedes selecciónar el tipo de organismo que necesites y ahí también hay una barra de texto en la cual vas a poner el gen de tu interes.
